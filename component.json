@@ -1,0 +1,13 @@
+{
+    "name":"myApp",
+    "version":"0.1",
+    "dependencies": {
+        "knockout": "github:SteveSanderson/knockout/v2.2.0",
+        "jqueryui": "git://github.com/components/jqueryui",
+        "jquery-bbq": "git://github.com/cowboy/jquery-bbq.git",
+        "jquery-hashchange": "git://github.com/cowboy/jquery-hashchange.git"
+    },
+    "unused": {
+        "":""
+    }
+}
